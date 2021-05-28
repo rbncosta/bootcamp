@@ -17,4 +17,4 @@ spring:
       ddl-auto: none
 
 application:
-  description: Meu primeiro Projeto Backend
+  description: Bootcamp - my first project Backend
